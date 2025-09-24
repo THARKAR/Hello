@@ -18,3 +18,10 @@ Commit------------------
 git commit -m "commited message" - To commit the changes made to the repository
 
 
+git status - to see how our code compares to the code on theremote repository
+
+Push to Github online ------------------
+git push - to publish our local commits to Github
+
+
+
