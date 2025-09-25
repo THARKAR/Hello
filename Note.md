@@ -32,7 +32,7 @@ git commit -m "Some Message"
 You can use this one :
 git commit -am "somemessage"
 
-git pull - to pull any remotechanges to your repository
+git pull - to pull any remotechanges to your repository.
 
 
 
