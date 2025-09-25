@@ -37,8 +37,16 @@ git pull - to pull any remotechanges to your repository.
 
 Merge Conflits-------------------%%%%%%%%
 
-@@@@#######
+Get the history of all commits --------------------------------
+git log - To get all commit history of the repository
 
+
+Revert to a specifice commit (version)-------------------------
+One Way
+git reset --hard <commit hash>  - reverts your code to exactly how it was after thespecified commit.
+
+
+git reset --hard origin/master - reverts your code to the version currently storedonline on Github.
 
 
 
