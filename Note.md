@@ -24,17 +24,19 @@ Push to Github online ------------------
 git push - to publish our local commits to Github
 
 
-If you’ve only changed existing files and not created new ones, instead of using
+If you’ve only changed existing files and not created new ones, instead of using--------------------
 git add .
 and then
 git commit -m "Some Message"
 
-You can use this one :
+You can use this one :--------------
 git commit -am "somemessage"
 
 git pull - to pull any remotechanges to your repository
 
 
+
+Merge Conflits-------------------
 
 
 
