@@ -53,10 +53,16 @@ git branch - To check which branch you are working on
 
 git checkout -b <new branch name> - To make a new branch
 
+git push --set-upstream origin <branch_name> - To push the current branch and set the remote as upstream
+
 git checkout <branch name> - To switch between branches
+
+
 
 When we’re ready to merge our two branches together, we’ll check out the branch wewish to keep (almost always the master branch) and then run the command. This will be treated similarly to a push or pull, and mergeconflicts may appear.===============================================================
 git merge <other branch name>
+
+
 
 
 
