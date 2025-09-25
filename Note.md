@@ -46,7 +46,7 @@ One Way
 git reset --hard <commit hash>  - reverts your code to exactly how it was after thespecified commit.
 
 
-git reset --hard origin/master - reverts your code to the version currently storedonline on Github.
+git reset --hard origin/main - reverts your code to the version currently stored online on Github.
 
 Branching==========================================================
 git branch - To check which branch you are working on
