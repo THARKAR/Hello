@@ -35,8 +35,9 @@ git commit -am "somemessage"
 git pull - to pull any remotechanges to your repository.
 
 
+Merge Conflits-------------------%%%%%%%%'
 
-Merge Conflits-------------------
+@@@@
 
 
 
